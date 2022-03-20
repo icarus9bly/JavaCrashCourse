@@ -6,7 +6,6 @@ package com.aditya;
 public class TestStuff {
     /**
      * Sample Main method.
-     * @return nothing.
      */
     public static void main(String[] args) {
         // Code goes here
